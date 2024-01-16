@@ -152,7 +152,7 @@ export default function RootLayout({
 
                 {/* Søke knapp og søkeboks */}
                 <NavigationMenuItem>
-                  <AlertDialog className="">
+                  <AlertDialog>
                     <AlertDialogTrigger className="focus:outline-none focus:ring-0">
                       Søk
                     </AlertDialogTrigger>
